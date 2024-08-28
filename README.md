@@ -1,7 +1,7 @@
 # Snort-IDS-IPS-Dashboard
 A Snort IDS/IPS dashboard build on Elastisearch, using data parsed from Graylog. Based on template 11191.
 
-After creating the Input, it is necessary to create the pipelines in the following order:
+After creating the Input and add the 0. Extractors.json, it is necessary to create the pipelines in the following order:
 
 ## Stage 1
 
