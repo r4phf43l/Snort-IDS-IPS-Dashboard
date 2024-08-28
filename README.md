@@ -5,12 +5,12 @@ After creating the Input, it is necessary to create the pipelines in the followi
 
 # Stage 1
 
-## Extract e2Guardian alert fields (optional)
-## Extract Snort alert fields (mandatory)
-## Extract sshGuard alert fields (mandatory)
-## SSH: Extract attempted login remote IP (mandatory)
+1. Extract e2Guardian alert fields (optional)
+2. Extract Snort alert fields (mandatory)
+3. Extract sshGuard alert fields (mandatory)
+4. SSH: Extract attempted login remote IP (mandatory)
 
 # Stage 2
 
-## GeoIP lookup: dst_addr
-## GeoIP lookup: dst_ip
+5. GeoIP lookup: dst_addr
+6. GeoIP lookup: dst_ip
