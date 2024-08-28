@@ -13,4 +13,4 @@ After creating the Input, it is necessary to create the pipelines in the followi
 ## Stage 2
 
 5. GeoIP lookup: dst_addr
-6. GeoIP lookup: dst_ip
+6. GeoIP lookup: src_addr
